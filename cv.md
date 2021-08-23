@@ -1,11 +1,11 @@
 VC
 ========================
 
-Name - Anton Liavonenka.
-Address - 13 Vladimirova Street, apt. 82, Gomel, 246034, Russia.
-Phone number - 80291620434.
-Marital status - single.
-Date of birth	- 12 december 1991.
+Name - Anton Liavonenka.  
+Address - 13 Vladimirova Street, apt. 82, Gomel, 246034, Russia.  
+Phone number - 80291620434.  
+Marital status - single.  
+Date of birth	- 12 december 1991.  
 Email - anleon1991@tut.by
 ***
 Education: 2009-2014, Sukhoi State Technical University of Gomel,Automation and Information Systems Faculty. Specilaity: Industrial Electronics.
