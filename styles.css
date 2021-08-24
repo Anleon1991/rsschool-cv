@@ -1,0 +1,16 @@
+div.div1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    float: left;
+}
+img.img1 {
+    float: right;/* Выравнивание по правому краю */
+    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+}
+div.div0 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px;
+    
+}
